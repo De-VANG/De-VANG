@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @De-VANG
-- 👀 I’m interested in Learning New Things
+- 👀 I’m interested in Learning New Technologies 
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Email: devangbhatnagar12@gamil.com
