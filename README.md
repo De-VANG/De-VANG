@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @De-VANG
 - 👀 I’m interested in Cloud Technology and Data Science  
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💞️ I’m looking to collaborate on Open Source Projects and Hackathons.
 - 📫 How to reach me Email: devangbhatnagar12@gamil.com
 
 <!---
